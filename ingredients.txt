@@ -2,3 +2,4 @@ avocado
 lime
 salt
 black pepper
+jalapenos
