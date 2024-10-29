@@ -3,3 +3,4 @@ lime
 salt
 black pepper
 jalapenos
+red pepper
