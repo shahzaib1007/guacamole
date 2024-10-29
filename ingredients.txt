@@ -1,6 +1,6 @@
 avocado
 lime
 salt
+red pepper
 black pepper
 jalapenos
-red pepper
