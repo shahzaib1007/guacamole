@@ -3,4 +3,5 @@ lime
 salt
 red pepper
 black pepper
-jalapenos
+jalapeno
+cilantro
